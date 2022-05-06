@@ -1,0 +1,88 @@
+.reservemenu {
+    display: flex;
+}
+
+.prop-parent {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.each-prop {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: 15px;
+}
+
+@media only screen and (max-width: 768px) {
+    .each-prop {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: space-evenly;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin: 15px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .prop-desc {
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.prop-desc {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.prop-pic {
+    display: flex;
+    justify-content: center;
+}
+
+.form-parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 768px) {
+    .form-parent {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.form-feild {
+    padding-right: 38px;
+}
+
+@media only screen and (max-width: 768px) {
+    .form-feild {
+        padding-bottom: 15px;
+    }
+}
+
+.search {
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+    .search {
+        margin-left: -40px;
+    }
+}

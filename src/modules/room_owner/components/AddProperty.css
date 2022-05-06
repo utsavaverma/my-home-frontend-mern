@@ -1,0 +1,23 @@
+/* Author: Utsava Verma (B00873273)*/
+
+.form-heading
+{
+   
+    margin-left: 32%;
+    
+    font-weight: bold;
+    font-size: large;
+   
+}
+
+.amenities-heading
+{
+    margin-top: 5%;
+    margin-bottom: 3%;
+   
+
+}
+
+input{
+    margin-top: 5%;
+}

@@ -26,7 +26,7 @@ My Home also attempts to foster a feeling of community by offering a discussion 
 - [Express](https://expressjs.com/) - Web framework for [Node](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/) - NoSQL database used for data persistence
 
-### References
+## References
 
 - [React](https://reactjs.org/) - Frontend framework
 - [Node](https://nodejs.org/) - Backend JavaScript runtime built on [Chrome's V8 JavaScript engine](https://v8.dev/)

@@ -1,4 +1,4 @@
-# MY HOME
+# My Home
 
 The goal of the My Home web application is to make finding and locating houses/rooms to rent simple, reliable, painless, and convenient. To accomplish this, it gives the tools necessary for house admins to generate thorough house and room profiles, which individual users may then browse through to identify rooms that meet their requirements. The site seeks to make the search process easier for interested students and working professionals, reducing the stress of relocating for school or work.
 
